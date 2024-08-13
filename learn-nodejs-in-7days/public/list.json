@@ -1,0 +1,243 @@
+{
+  "血常规": [
+    {
+      "packageId": "P201905160006",
+      "packageCurrentPrice": 15,
+      "packageName": "血常规(五分类)"
+    },
+    {
+      "packageId": "P201911110003",
+      "packageCurrentPrice": 40,
+      "packageName": "血常规+超敏C反应蛋白"
+    }
+  ],
+  "尿常规": [
+    {
+      "packageId": "P201906120031",
+      "packageCurrentPrice": 19,
+      "packageName": "尿常规"
+    },
+    {
+      "packageId": "P202110280001",
+      "packageCurrentPrice": 0,
+      "packageName": "尿常规(五分类)（测试）"
+    }
+  ],
+  "粪便化验": [],
+  "肝功能": [
+    {
+      "packageId": "P201911110018",
+      "packageCurrentPrice": 62,
+      "packageName": "肝功能全套（肝功能常规、总胆汁酸、胆碱酯酶、甘-脯肽酶、α-L-岩藻糖苷酶）"
+    }
+  ],
+  "肾功能": [
+    {
+      "packageId": "P201906120025",
+      "packageCurrentPrice": 12,
+      "packageName": "肾功能常规检查（ 尿酸、肌酐、尿素）"
+    }
+  ],
+  "血脂五项": [],
+  "空腹血糖": [],
+  "蛋白组合": [],
+  "胆红素组合": [],
+  "电解质": [
+    {
+      "packageId": "P201906060001",
+      "packageCurrentPrice": 30,
+      "packageName": "电解质6项"
+    },
+    {
+      "packageId": "P201911200002",
+      "packageCurrentPrice": 192,
+      "packageName": "肝肾脂糖电解质测定+CYC"
+    },
+    {
+      "packageId": "P202206210001",
+      "packageCurrentPrice": 374,
+      "packageName": "肝肾脂糖电解质（全套）+镁+淀粉酶+免\n疫球五项+总铁结合力+心肌酶谱+HCY+APOA+APOB+CRP+CYC"
+    }
+  ],
+  "免疫功能五项": [],
+  "甲状腺功能五项": [],
+  "糖化血红蛋白(HBA1C)": [
+    {
+      "packageId": "P201906060009",
+      "packageCurrentPrice": 30,
+      "packageName": "糖化血红蛋白(HbA1c)测定"
+    }
+  ],
+  "糖尿病自身抗体三项(IAA-lgGICA-lgGGAD-Ab)": [],
+  "血同型半胱氨酸(Hcy)测定": [],
+  "肝功能常规检查+肾功能常规检查+血脂四项+葡萄糖+电解质+磷+钙*": [],
+  "SCC+CYFRA21-1+NSE": [],
+  "胃泌素释放肽前体测定": [],
+  "肺结节良恶性鉴别七种抗体检测": [],
+  "肺癌基因甲基化检测": [],
+  "钙卫蛋白定量": [],
+  "胃功能四项检测(PG-IPG-IIGP-17HP-Ab)": [],
+  "粪便常规+潜血OB": [],
+  "胃幽门螺杆菌抗体（IgG)测定": [],
+  "炎症性肠病钙卫蛋白定量检测": [],
+  "胃癌早筛胃功能四项检测(PG-IPG-IIGP-17HP-Ab)": [],
+  "粪便潜血定量检测": [],
+  "胃肠道抗体(抗酿酒酵母细胞抗体ASCA)两项": [],
+  "肝功能常规检查+总胆汁酸（总蛋白白蛋白球蛋白白/球蛋白比例总胆红素直接胆红素间接胆红素丙氨酸氨基转移酶天门冬氨基转移酶AST/ALTγ-谷氨酰转肽酶碱性磷酸酶.总胆汁酸）": [],
+  "肝纤四项指标(HAPⅢPCIVLN)": [],
+  "乙肝三系检查（定量）": [
+    {
+      "packageId": "P202206080001",
+      "packageCurrentPrice": 75,
+      "packageName": "乙肝三系检查（定量）*"
+    }
+  ],
+  "自身免疫性肝病抗体（抗线粒体抗体2型抗体IgG抗肝\\肾微粒体1型抗体抗可溶性肝抗原\\肝-胰抗原抗体平滑肌抗体抗胃壁细胞抗体抗线粒体抗体抗肝细胞浆抗原1型抗体)": [],
+  "肝功能全套（肝功能常规总胆汁酸胆碱酯酶甘-脯肽酶α-L-岩藻糖苷酶）": [],
+  "壳多糖酶3样蛋白测定": [
+    {
+      "packageId": "P202202240002",
+      "packageCurrentPrice": 380,
+      "packageName": "壳多糖酶3样蛋白测定"
+    }
+  ],
+  "肝肾脂糖电解质测定+CYC": [],
+  "肝炎全套13项": [],
+  "胆汁酸谱检测15项检测": [],
+  "骨代谢五项（25羟基维生素D测定TPINPOSTEOCβ-CROSSLCT）": [],
+  "甲状旁腺激素测定": [],
+  "25羟基维生素D三项": [],
+  "微量元素5项（铜Cu锌Zn钙Ca镁Mg铁Fe）": [],
+  "抗缪勒氏管激素（AMH）测定": [
+    {
+      "packageId": "P202111040001",
+      "packageCurrentPrice": 192,
+      "packageName": "抗缪勒氏管激素（AMH）测定"
+    }
+  ],
+  "生殖激素常规检查": [],
+  "生殖道病原体核酸RNA检测四项(CTUUNGMG)": [],
+  "卵巢癌早筛附睾蛋白4测定（HE4）": [],
+  "叶酸代谢能力基因检测": [
+    {
+      "packageId": "P202107270004",
+      "packageCurrentPrice": 400,
+      "packageName": "叶酸代谢能力基因检测"
+    }
+  ],
+  "心肌酶谱常规检查(ASTCKLDHCK-MassHBDH)": [],
+  "血脂五项(TCTGHDL-CLDL-CsdLDL-C)": [],
+  "血脂七项(TCTGHDL-CLDL-CApoAⅠApoBApoE)": [],
+  "B型纳尿肽定量测定（BNP）": [
+    {
+      "packageId": "P202203240003",
+      "packageCurrentPrice": 120,
+      "packageName": "B型纳尿肽定量测定（BNP）"
+    }
+  ],
+  "生化筛查常规检查（含血清总蛋白测定血清白蛋白测定血清丙氨酸氨基转移酶测定血清总胆红素测定血清直接胆红素测定血清间接胆红素测定尿素（尿素氮）测定肌酐测定血清尿酸测定钾测定钠测定氯测定血清总胆固醇测定血清甘油三酯测定血清高密度脂蛋白胆固醇测定葡萄糖测定）*": [],
+  "CER-心血管病风险评估（体检）": [],
+  "肝功能常规检查+肾功能常规检查+血脂四项+葡萄糖+电解质+磷+钙": [],
+  "高血压四项": [],
+  "（AⅠAⅡPRAALD)": [],
+  "肝功能全套": [
+    {
+      "packageId": "P201911110018",
+      "packageCurrentPrice": 62,
+      "packageName": "肝功能全套（肝功能常规、总胆汁酸、胆碱酯酶、甘-脯肽酶、α-L-岩藻糖苷酶）"
+    }
+  ],
+  "血脂": [
+    {
+      "packageId": "P201906050006",
+      "packageCurrentPrice": 50,
+      "packageName": "血脂7项"
+    }
+  ],
+  "食物不耐受检测（14项）": [],
+  "过敏原综合组": [
+    {
+      "packageId": "P201906060008",
+      "packageCurrentPrice": 240,
+      "packageName": "过敏原综合组：吸入物过敏原筛查+食物过敏原筛查"
+    }
+  ],
+  "食物不耐受检测（50项）": [],
+  "过敏原综合组+总IgE": [],
+  "食物不耐受检测101项": [
+    {
+      "packageId": "P202107270003",
+      "packageCurrentPrice": 4000,
+      "packageName": "食物不耐受检测101项"
+    }
+  ],
+  "男性肿瘤筛查": [],
+  "女性肿瘤筛查": [],
+  "胃癌基因（RNF180/Septin9）甲基化早筛检测": [
+    {
+      "packageId": "P202208180001",
+      "packageCurrentPrice": 1200,
+      "packageName": "胃癌基因（RNF180/Septin9）甲基化早筛检测"
+    }
+  ],
+  "肝癌基因甲基化早筛项目": [
+    {
+      "packageId": "P202208180002",
+      "packageCurrentPrice": 1980,
+      "packageName": "肝癌基因甲基化早筛项目"
+    }
+  ],
+  "结直肠癌无创筛查": [
+    {
+      "packageId": "P202112240001",
+      "packageCurrentPrice": 1225,
+      "packageName": "结直肠癌无创筛查"
+    }
+  ],
+  "异常糖链糖蛋白TAP": [],
+  "维生素6项（25-羟维生素D25-羟基维生素D225-羟基维生素D3维生素AEK）": [],
+  "微量元素6项（铅Pb铜Cu锌Zn钙Ca镁Mg铁Fe）": [],
+  "氨基酸检测20项检测": [],
+  "呼吸道病毒筛查六项(甲型流感病毒乙型流感病毒呼吸道合胞病毒腺病毒副流感病毒I型及副流感III型核酸)": [],
+  "手足口病毒筛查": [],
+  "轮状病毒检测": [],
+  "营养组套（血清前白蛋白（PALB）+血清转铁蛋白（TF）+血清视黄醇结合蛋白（RBP））": [],
+  "类胰岛素样生长因子-1测定": [
+    {
+      "packageId": "P202203040001",
+      "packageCurrentPrice": 32,
+      "packageName": "类胰岛素样生长因子-1测定"
+    }
+  ],
+  "类胰岛素样生长因子结合蛋白-3测定": [
+    {
+      "packageId": "P202209230002",
+      "packageCurrentPrice": 32,
+      "packageName": "类胰岛素样生长因子结合蛋白-3测定"
+    }
+  ],
+  "免疫球蛋白IgAIgGIgMC3C4(5项）": [],
+  "血清生长激素（GH)测定": [
+    {
+      "packageId": "P202209230004",
+      "packageCurrentPrice": 32,
+      "packageName": "血清生长激素（GH)测定"
+    }
+  ],
+  "维生素9项": [
+    {
+      "packageId": "P202209230003",
+      "packageCurrentPrice": 342,
+      "packageName": "维生素9项（25-羟维生素D、25-羟基维生素D2、25-羟基维生素D3、维生素B9、维生素A、E、K、B1、B2）"
+    }
+  ],
+  "免疫功能五项评估免疫球蛋白IgAIgGIgMC3C4(5项）": [],
+  "免疫细胞图谱+免疫年龄检测+免疫细胞杀伤力评估": [],
+  "免疫年龄检测": [
+    {
+      "packageId": "P202007170001",
+      "packageCurrentPrice": 800,
+      "packageName": "免疫年龄检测"
+    }
+  ]
+}
